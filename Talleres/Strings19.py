@@ -18,7 +18,7 @@ print("Validación 2:", nombres.count(" ")<3 and nombres.replace(" ", "").isalph
 
 fechaNac = input("Fecha Nacimiento:")
 print("Validación 3: ", len(fechaNac)==10 and 2017-int(fechaNac[-4:])>=18
-      and fechaNac[2]=="-" and fechaNac[5]=="-")
+      and fechaNac[2]=="-" and fechaNac[5]=="-" and fechaNac.replace("-","").isdigit())
 
 correo = input("Correo ESPOL:").lower()
 print("Validación 4: ", "espol.edu.ec" in correo)
@@ -37,7 +37,7 @@ print("Validación 2:", nombres2.count(" ")<3 and nombres2.replace(" ", "").isal
 
 fechaNac2 = input("Fecha Nacimiento:")
 print("Validación 3: ", len(fechaNac2)==10 and 2017-int(fechaNac2[-4:])>=18
-      and fechaNac2[2]=="-" and fechaNac2[5]=="-")
+      and fechaNac2[2]=="-" and fechaNac2[5]=="-" and fechaNac2.replace("-","").isdigit())
 
 correo2 = input("Correo ESPOL:").lower()
 print("Validación 4: ", "espol.edu.ec" in correo)
