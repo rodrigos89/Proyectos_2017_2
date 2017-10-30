@@ -20,8 +20,11 @@ fechaNac = input("Fecha Nacimiento:")
 print("Validación 3: ", len(fechaNac)==10 and fechaNac.replace("-","").isdigit() and 2017-int(fechaNac[-4:])>=18
       and fechaNac[2]=="-" and fechaNac[5]=="-")
 
+sexo = input("Ingrese sexo:")
+print("Validación 4:", sexo=="F" or sexo=="M")
+
 correo = input("Correo NO ESPOL:").lower()
-print("Validación 4: ", "espol.edu.ec" not in correo)
+print("Validación 5: ", "espol.edu.ec" not in correo)
 
 
 #Literal 2
@@ -39,12 +42,30 @@ fechaNac2 = input("Fecha Nacimiento:")
 print("Validación 3: ", len(fechaNac2)==10 and fechaNac2.replace("-","").isdigit() and 2017-int(fechaNac2[-4:])>=18
       and fechaNac2[2]=="-" and fechaNac2[5]=="-")
 
+sexo2 = input("Ingrese sexo:")
+print("Validación 4:", sexo2=="F" or sexo2=="M")
+
 correo2 = input("Correo NO ESPOL:").lower()
-print("Validación 4: ", "espol.edu.ec" not in correo)
+print("Validación 5: ", "espol.edu.ec" not in correo)
 
 #Literal 3
 mensaje = "Estimada {0}, El sr. {1} le ha invitado " \
           "al 'Baile de Gala ESPOL' organizado por FEPOL el día 31 de octubre 2017. " \
           "Por favor, confirme su respuesta de invitación al correo {3}".format(nombres2,nombres,correo)
-print(mensaje)
+
+print()
+print("Enviando correo...")
+print()
+print("De:", correo)
+print("Para:", correo2)
+print("Asunto: Invitación Baile de Gala")
+#Literal 4
+if (sexo=="M" and sexo2=="F"):
+    print(mensaje)
+elif(sexo=="F" and sexo2=="M"):
+    print(mensaje.replace("Estimada","Estimado").replace("El sr", "La srita"))
+elif(sexo=="M" and sexo2=="M"):
+    print(mensaje.replace("Estimada", "Estimado"))
+else:
+    print(mensaje.replace("El sr","La srita"))
 
