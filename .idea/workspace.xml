@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b32acc6-0332-450f-9034-8354ee8c0eb7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Emoticon/fondo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Emoticon/fondo_peq.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Emoticon/guino.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Emoticon/laugh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Emoticon/sad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Emoticon/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Emoticon/face.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/EventosRaton.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Formas.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/Graficando.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/HolaMundo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/VentanaSencilla.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Basico/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ejemplos34.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ejercicioListas.py" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Emoticon/__init__.py" afterPath="$PROJECT_DIR$/WorkshopPygame/Emoticon/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Emoticon/face.py" afterPath="$PROJECT_DIR$/WorkshopPygame/Emoticon/face.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Emoticon/fondo.jpg" afterPath="$PROJECT_DIR$/WorkshopPygame/Emoticon/fondo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Emoticon/fondo_peq.jpg" afterPath="$PROJECT_DIR$/WorkshopPygame/Emoticon/fondo_peq.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Emoticon/guino.png" afterPath="$PROJECT_DIR$/WorkshopPygame/Emoticon/guino.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Emoticon/laugh.png" afterPath="$PROJECT_DIR$/WorkshopPygame/Emoticon/laugh.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Emoticon/sad.png" afterPath="$PROJECT_DIR$/WorkshopPygame/Emoticon/sad.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/EventosRaton.py" afterPath="$PROJECT_DIR$/WorkshopPygame/EventosRaton.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Formas.py" afterPath="$PROJECT_DIR$/WorkshopPygame/Formas.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/Graficando.py" afterPath="$PROJECT_DIR$/WorkshopPygame/Graficando.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/HolaMundo.py" afterPath="$PROJECT_DIR$/WorkshopPygame/HolaMundo.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/VentanaSencilla.py" afterPath="$PROJECT_DIR$/WorkshopPygame/VentanaSencilla.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Basico/__init__.py" afterPath="$PROJECT_DIR$/WorkshopPygame/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ejemplos34.py" afterPath="$PROJECT_DIR$/ejemplos34.py" />
     </list>
     <ignored path="Proyectos_2017_2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,16 +37,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IF_19.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Talleres/IF_19.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="letrasnumerosguiones.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AlgoritmosReceta/ProyectoAyuda/letrasnumerosguiones.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,32 +87,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ejemplos34.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ejemplos34.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ejemplos34.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="225">
+              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ejercicioListas.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ejercicioListas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SolucionEstructurasControl19.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SolucionEstructurasControl19.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HolaMundo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkshopPygame/HolaMundo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,14 +172,15 @@
         <option value="$PROJECT_DIR$/AlgoritmosReceta/Validaciones/letrasnumerosguiones.py" />
         <option value="$PROJECT_DIR$/AlgoritmosReceta/Listas.py" />
         <option value="$PROJECT_DIR$/ejemplos.py" />
-        <option value="$PROJECT_DIR$/ejemplos34.py" />
         <option value="$PROJECT_DIR$/ejercicioListas.py" />
         <option value="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py" />
+        <option value="$PROJECT_DIR$/ejemplos34.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="80" />
+    <option name="x" value="114" />
+    <option name="y" value="76" />
     <option name="width" value="1024" />
     <option name="height" value="577" />
   </component>
@@ -215,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -276,9 +269,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Proyectos_2017_2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Proyectos_2017_2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lecciones" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -561,10 +569,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="80" width="1024" height="577" extended-state="0" />
-    <editor active="false" />
+    <frame x="114" y="76" width="1024" height="577" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20507812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20507812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16516517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -613,13 +621,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lecciones/Strings19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lecciones/Strings34.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -631,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1155">
           <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,7 +870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -914,19 +913,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplos.py">
+    <entry file="file://$PROJECT_DIR$/WorkshopPygame/HolaMundo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplos34.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -940,8 +933,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplos34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
           <folding />
         </state>
       </provider>
