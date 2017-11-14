@@ -15,13 +15,13 @@ for i in range(5):
     dia = int(fecha[:2])
     sep1 = fecha[2]
     mes = int(fecha[3:5])
-    anio = int(fecha[-4:])
+    anio = int(fecha[6:])
     sep2 = fecha[5]
-    if len(fecha) == 10 or len(fecha == 8):
-        if (sep1 == "-" and sep1 == sep2) or (sep1 == "/" and sep1 == sep2):
-            if (0 < dia < 31):
+    if len(fecha) == 10 or len(fecha) == 8:
+        if (sep1 == "-" and sep1 == sep2):
+            if (0 < dia < 29):
                 if (0 < mes < 13):
-                    if (210 <= anio < 2050) or (10 <= anio < 50):
+                    if (2010 <= anio < 2050) or (10 <= anio < 50):
                         print("Fecha válida")
                         listaFechas.append(fecha)
                     else:
@@ -33,4 +33,4 @@ for i in range(5):
         else:
             print("%s no es un formato válido" % fecha)
 
-print("Número de Fechas validadas: ", len(listaFechas))
+print("Número de fechas válidas: ", len(listaFechas))

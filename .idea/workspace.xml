@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b32acc6-0332-450f-9034-8354ee8c0eb7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Talleres/Listas/Taller19.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Talleres/Listas/Taller34.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py" afterPath="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py" afterPath="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Talleres/Listas/Taller19.py" afterPath="$PROJECT_DIR$/Talleres/Listas/Taller19.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ejemplos34.py" afterPath="$PROJECT_DIR$/ejemplos34.py" />
     </list>
     <ignored path="Proyectos_2017_2.iws" />
@@ -57,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Taller19.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Taller19.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Talleres/Listas/Taller19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+            <state relative-caret-position="91">
+              <caret line="45" column="61" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -90,18 +87,18 @@
       <file leaf-file-name="SolucionEstructurasControl19.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SolucionEstructurasControl34.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SolucionEstructurasControl34.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="45">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -175,10 +172,10 @@
         <option value="$PROJECT_DIR$/ejercicioListas.py" />
         <option value="$PROJECT_DIR$/ejemplos34.py" />
         <option value="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py" />
-        <option value="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py" />
         <option value="$PROJECT_DIR$/ejemplosListas.py" />
         <option value="$PROJECT_DIR$/Talleres/Listas/Taller34.py" />
         <option value="$PROJECT_DIR$/Talleres/Listas/Taller19.py" />
+        <option value="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py" />
       </list>
     </option>
   </component>
@@ -257,11 +254,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Talleres" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Listas" />
+              <option name="myItemId" value="Lecciones" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,24 +280,7 @@
       <recent name="$PROJECT_DIR$/Talleres" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Taller19">
-    <configuration default="false" name="ejercicioListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Proyectos_2017_2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicioListas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.SolucionEstructurasControl34">
     <configuration default="false" name="ejemplosListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,6 +345,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Proyectos_2017_2" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Talleres/Listas/Taller19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SolucionEstructurasControl34" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecciones" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyectos_2017_2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -508,19 +501,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ejercicioListas" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ejemplosListas" />
-      <item index="2" class="java.lang.String" itemvalue="Python.SolucionEstructurasControl19" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Taller34" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Taller19" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ejemplosListas" />
+      <item index="1" class="java.lang.String" itemvalue="Python.SolucionEstructurasControl19" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Taller34" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Taller19" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SolucionEstructurasControl34" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Taller19" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Taller34" />
-        <item index="2" class="java.lang.String" itemvalue="Python.ejemplosListas" />
-        <item index="3" class="java.lang.String" itemvalue="Python.SolucionEstructurasControl19" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ejercicioListas" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SolucionEstructurasControl34" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Taller19" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Taller34" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ejemplosListas" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SolucionEstructurasControl19" />
       </list>
     </recent_temporary>
   </component>
@@ -558,7 +551,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35236222" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13779527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -884,22 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ejemplosListas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -926,8 +903,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Talleres/Listas/Taller19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="52" column="32" selection-start-line="52" selection-start-column="32" selection-end-line="52" selection-end-column="32" />
+        <state relative-caret-position="91">
+          <caret line="45" column="61" selection-start-line="45" selection-start-column="61" selection-end-line="45" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
