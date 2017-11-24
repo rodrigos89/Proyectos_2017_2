@@ -45,7 +45,6 @@ for i in range(len(listaA)):
         resultado=True
 print("El número "+str(buscar)+" fue encontrado:", resultado)
 
-
 '''4.	Escriba un programa que dadas dos listas de numero genere una tercera
 lista solo con los elementos que coinciden en ambas listas.
 '''
