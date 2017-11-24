@@ -14,7 +14,6 @@ print("i:",i)
 print("val:",val)
 
 #Escriba un programa que permita validar formatos de fecha del 2010-2050
-
 #1. Su programa debe realizar la validación de 5 entradas
 #2. Valide la longitud de la entrada: 8 o 10 caracteres
 #3. Los formatos aceptados pueden ser: mm-dd-aa o mm-dd-aaaa

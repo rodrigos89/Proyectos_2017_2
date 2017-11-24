@@ -17,7 +17,7 @@ print("Las compras de todo el año:\n", ventas)
 #Una vez lista su matriz, y conociendo que representa cada fila y columna,
 #responda las siguientes preguntas
 
-#1. ¿Cuál fue la venta total de la tienda por mes y anual?
+#1. ¿Cuál fue la venta total de la tienda por mes y total anual?
 totalMes = ventas.sum(axis=0) #calcula mes por columnas
 for i in range(len(meses)): #para iterar de 0 a 11
     print(meses[i][0:3]+":\t$",totalMes[i]) #imprime cada mes con cada total del mes correspondiente
@@ -47,9 +47,8 @@ print("El mes en que se vendió menos carne fue en {0} con un "
 print()
 #5. ¿Cual fue el promedio de ventas en Diciembre?
 ventasDic = ventas[:,-1] #slicing todas las filas, última columna=Diciembre
-promedioDic = ventas.mean() #calcula promedio
+promedioDic = ventasDic.mean() #calcula promedio
 print("El promedio de ventas de Diciembre fue $%.2f"%(promedioDic)) #imprimiendo 2 decimales
-
 #6. ¿Qué tipo de producto tuvo menos ventas los 3 últimos meses?
 ventasProd = ventas[:,-3:] #slicing todas las filas, 3 últimas columnas
 totalVentasxProd = ventasProd.sum(axis=1) #suma x filas
@@ -67,7 +66,7 @@ print("El tipo de carne con mayor ventas en enero fue {0} "
       "con un total de ${1}.".format(carnes[posMayor],ventasMayor))
 
 #8. ¿Cuál de los 3 últimos productos tuvo menos ventas de enero a abril?
-ventasProd4meses = ventas[-len(complementos):,0:5] #slicing 3 productos complemento de los 4 primeros meses
+ventasProd4meses = ventas[-len(complementos):,0:4] #slicing 3 productos complemento de los 4 primeros meses
 posProdMenor = ventasProd4meses.sum(axis=1).argmin() #el menor de la suma por producto
 totProdMenor = ventasProd4meses.sum(axis=1).min()
 print()
@@ -96,11 +95,15 @@ arrMeses = np.array(meses,dtype="str") #para extraer los nombres de los meses
 print()
 print("Los meses que superaron las ventas de Diciembre son:", arrMeses[posMeses])
 
-#12. Obtenga el nombre de los productos y su promedio de ventas del mes de Septiembre
-# de aquellos productos que vendieron mas de $30 en Mayo
-totalProductosSep = ventas[:,8]
-print(totalProductosSep)
-totalProductosMay = ventas[:,4]
-print(totalProductosMay)
-print(totalProductosMay>30)
-print(np.where(totalProductosSep[totalProductosMay>30]))
+#12. Obtenga el nombre de los productos y su promedio anual de ventas de aquellos
+# productos que vendieron mas de $30 en Mayo
+mediaProductos = ventas.mean(axis=1)
+productosMayo = ventas[:,4]
+indices = np.where(productosMayo>30)[0]
+print(indices)
+mediaAnual = mediaProductos[indices]
+nombres = arrProd[indices]
+print("Los productos que vendieron más de $30 en Mayo:", end="")
+print(nombres)
+print("Las medias de estos productos fue:", end="")
+print(mediaAnual)
