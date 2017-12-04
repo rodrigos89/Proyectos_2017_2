@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b32acc6-0332-450f-9034-8354ee8c0eb7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Proyectos_2017_2.iml" afterPath="$PROJECT_DIR$/.idea/Proyectos_2017_2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema4.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ejemplos34.py" afterPath="$PROJECT_DIR$/ejemplos34.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practicasNumpy/consultas.py" afterPath="$PROJECT_DIR$/practicasNumpy/consultas.py" />
     </list>
     <ignored path="Proyectos_2017_2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="creacion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practicasNumpy/creacion.py">
+      <file leaf-file-name="propiedades.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practicasNumpy/propiedades.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -39,77 +39,77 @@
         <entry file="file://$PROJECT_DIR$/ejemplosListas.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="2" selection-end-column="12" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="propiedades.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practicasNumpy/propiedades.py">
+      <file leaf-file-name="Tema1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="131">
+              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="escalares.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practicasNumpy/escalares.py">
+      <file leaf-file-name="Tema2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            <state relative-caret-position="314">
+              <caret line="37" column="56" lean-forward="true" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="operacionesentreMatrices.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practicasNumpy/operacionesentreMatrices.py">
+      <file leaf-file-name="Tema3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="160">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="operacionesElementosMatriz.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practicasNumpy/operacionesElementosMatriz.py">
+      <file leaf-file-name="Tema4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slicing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practicasNumpy/slicing.py">
+      <file leaf-file-name="SolucionEstructurasControl34.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="390">
+              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pruebasWhere.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practicasNumpy/pruebasWhere.py">
+      <file leaf-file-name="SolucionListas19.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecciones/SolucionListas19.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="840">
+              <caret line="56" column="33" lean-forward="false" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="consultas.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practicasNumpy/consultas.py">
+      <file leaf-file-name="SolucionListas34.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lecciones/SolucionListas34.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="95" column="25" lean-forward="false" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -118,8 +118,8 @@
       <file leaf-file-name="peubbuas.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/peubbuas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="109" column="0" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="109" selection-end-column="0" />
+            <state relative-caret-position="1530">
+              <caret line="102" column="14" lean-forward="true" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -140,10 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Strings/ahorcado.py" />
-        <option value="$PROJECT_DIR$/Strings/TallerStrings.py" />
-        <option value="$PROJECT_DIR$/HolaMundo.py" />
-        <option value="$PROJECT_DIR$/Strings/Personalizar.py" />
         <option value="$PROJECT_DIR$/Talleres/Strings34.py" />
         <option value="$PROJECT_DIR$/Talleres/Strings19.py" />
         <option value="$PROJECT_DIR$/Lecciones/Strings19.py" />
@@ -166,7 +162,6 @@
         <option value="$PROJECT_DIR$/ejercicioListas.py" />
         <option value="$PROJECT_DIR$/ejemplos34.py" />
         <option value="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py" />
-        <option value="$PROJECT_DIR$/ejemplosListas.py" />
         <option value="$PROJECT_DIR$/Talleres/Listas/Taller34.py" />
         <option value="$PROJECT_DIR$/Talleres/Listas/Taller19.py" />
         <option value="$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py" />
@@ -191,13 +186,18 @@
         <option value="$PROJECT_DIR$/Numpy_ej/pruebasWhere.py" />
         <option value="$PROJECT_DIR$/peubbuas.py" />
         <option value="$PROJECT_DIR$/practicasNumpy/consultas.py" />
+        <option value="$PROJECT_DIR$/ejemplosListas.py" />
+        <option value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema4.py" />
+        <option value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema1.py" />
+        <option value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema2.py" />
+        <option value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema3.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
-    <option name="y" value="32" />
-    <option name="width" value="1080" />
+    <option name="x" value="137" />
+    <option name="y" value="64" />
+    <option name="width" value="1223" />
     <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -216,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,13 +232,20 @@
             <path>
               <item name="Proyectos_2017_2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Proyectos_2017_2" type="462c0819:PsiDirectoryNode" />
-              <item name="practicasNumpy" type="462c0819:PsiDirectoryNode" />
+              <item name="Examenes" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyectos_2017_2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyectos_2017_2" type="462c0819:PsiDirectoryNode" />
+              <item name="Examenes" type="462c0819:PsiDirectoryNode" />
+              <item name="2017-2" type="462c0819:PsiDirectoryNode" />
+              <item name="Parcial_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -273,20 +281,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.peubbuas">
-    <configuration name="OperacionesMatriz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Tema3">
+    <configuration name="SolucionListas34" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy_ej" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Proyectos_2017_2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicasNumpy/operacionesElementosMatriz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecciones/SolucionListas34.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Tema1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyectos_2017_2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Tema2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyectos_2017_2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Tema3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Proyectos_2017_2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -425,24 +484,7 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <configuration name="consultas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy_ej" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Proyectos_2017_2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicasNumpy/consultas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="peubbuas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ejemplosListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -454,59 +496,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Proyectos_2017_2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/peubbuas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="pruebasWhere" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy_ej" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Proyectos_2017_2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicasNumpy/pruebasWhere.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="slicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy_ej" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Proyectos_2017_2" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practicasNumpy/slicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejemplosListas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.slicing" />
-      <item index="1" class="java.lang.String" itemvalue="Python.OperacionesMatriz" />
-      <item index="2" class="java.lang.String" itemvalue="Python.consultas" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pruebasWhere" />
-      <item index="4" class="java.lang.String" itemvalue="Python.peubbuas" />
+      <item index="0" class="java.lang.String" itemvalue="Python.SolucionListas34" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ejemplosListas" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Tema1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Tema2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Tema3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.peubbuas" />
-        <item index="1" class="java.lang.String" itemvalue="Python.consultas" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pruebasWhere" />
-        <item index="3" class="java.lang.String" itemvalue="Python.OperacionesMatriz" />
-        <item index="4" class="java.lang.String" itemvalue="Python.slicing" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Tema3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Tema2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Tema1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ejemplosListas" />
+        <item index="4" class="java.lang.String" itemvalue="Python.SolucionListas34" />
       </list>
     </recent_temporary>
   </component>
@@ -536,19 +544,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="32" width="1080" height="723" extended-state="0" />
+    <frame x="137" y="64" width="1223" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25185186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29026982" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16516517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2780338" sideWeight="0.5037037" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2780338" sideWeight="0.4962963" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30875576" sideWeight="0.3058054" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30875576" sideWeight="0.6941946" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43307087" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43164364" sideWeight="0.49713817" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -594,34 +602,11 @@
           <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PracticaInicial/HolaMundo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prueba.py" />
-    <entry file="file://$PROJECT_DIR$/Strings/ahorcado.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticaInicial/Factura.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticaInicial/HolaMundo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -773,20 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticaNumpy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -794,21 +765,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionListas19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SolucionListas34.py" />
-    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionListas34.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Examenes/2016-2/Tema3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -850,32 +807,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NUMPY.py" />
-    <entry file="file://$PROJECT_DIR$/ejemplosListas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practicasNumpy/operacionesentreMatrices.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practicasNumpy/creacion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -883,7 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -891,6 +836,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicasNumpy/slicing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicasNumpy/pruebasWhere.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicasNumpy/consultas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" column="25" lean-forward="false" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionListas19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="33" lean-forward="false" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionListas34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecciones/SolucionEstructurasControl34.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/peubbuas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="14" lean-forward="true" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplosListas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -898,39 +922,31 @@
     <entry file="file://$PROJECT_DIR$/practicasNumpy/propiedades.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practicasNumpy/slicing.py">
+    <entry file="file://$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="131">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practicasNumpy/pruebasWhere.py">
+    <entry file="file://$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="314">
+          <caret line="37" column="56" lean-forward="true" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/peubbuas.py">
+    <entry file="file://$PROJECT_DIR$/Examenes/2017-2/Parcial_1/Tema3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="109" column="0" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="109" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practicasNumpy/consultas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="95" column="25" lean-forward="false" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+        <state relative-caret-position="160">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
