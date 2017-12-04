@@ -39,8 +39,8 @@ if nombreCiudad in ciudades:
     gasolineras = transpuesta[posCiudad]
     totalVentas = gasolineras.sum(axis=1)
     print("Total de ventas por Gasolinera:", totalVentas)
-    cuantasGasolineras = np.where(totalVentas<5000000)[0].size
-    print("El número de gasolineras que vendieron menos de 5 millones es:", cuantasGasolineras)
+    cuantasGasolineras = totalVentas<5000000
+    print("El número de gasolineras que vendieron menos de 5 millones es:", cuantasGasolineras.sum())
 
 #3. Muestre por pantalla el nombre de la ciudad que más galones ha vendido en el año de
 # gasolina tipo EcoPaís​ ​en el distrito distrito3​
