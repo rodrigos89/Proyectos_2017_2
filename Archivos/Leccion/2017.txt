@@ -1,0 +1,12 @@
+IND*Independiente,Uio,71,44,19,14,11,68,49,19
+MAC*Macará,Rio,70,44,19,13,12,57,47,10
+DEL*Delfín,Man,84,44,22,18,4,64,34,30
+EME*Emelec,Gye,83,44,23,14,7,71,41,30
+CUE*D.Cuenca,Cue,61,44,16,13,15,51,49,2
+LDU*Liga de Quito,Uio,54,44,13,15,16,66,64,2
+CLA*Clan Juvenil,Uio,29,44,6,11,27,50,102,,-52
+FAM*Fuerza Amarilla,Mach,28,44,7,12,25,34,76,-42
+BSC*Barcelona,Gye,67,44,20,13,11,62,41,21
+NAC*El Nacional,Uio,64,44,17,13,14,73,62,11
+CAT*Universidad Católica,Uio,45,44,12,9,23,56,67,-11
+RIV*Guayaquil City,Gye,45,44,10,15,19,35,55,-20
