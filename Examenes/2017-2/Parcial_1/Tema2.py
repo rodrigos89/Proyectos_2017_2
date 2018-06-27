@@ -1,6 +1,6 @@
 #Procesar datos dentro de una cadena
 
-listaIndicadores = ["INR", "RBC", "BGT", "ESR", "HGB", "TA", "WBC"]
+listaIndicadores = []
 
 resultado = "Resultado de Laboratorio ‘Su Salud’ Nombre del paciente: José Aimas " \
             "E-mail del paciente: jose.aimas@gmail.com Resultados del laboratorio: " \
@@ -19,6 +19,11 @@ listaResultado = resultado.split() #Separando cada palabra de la cadena
 nota = False
 print("INFORME DE LABORATORIO".center(30," ")) #Impresión inicial encabezado
 print("".center(30,"*")) #Repetición de 30 *
+
+for palabra in listaResultado:
+    if palabra.isupper():
+        listaIndicadores.append(palabra)
+
 for indicador in listaIndicadores: #recorriendo la lista de indicadores
     if indicador in listaResultado: #busca el indicador en la lista de palabras
         pos = listaResultado.index(indicador) #Si está ya puede buscar el índice del mismo
